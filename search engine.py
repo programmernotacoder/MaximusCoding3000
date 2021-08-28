@@ -1,6 +1,7 @@
 import webbrowser
 import wolframalpha
 
+
 def HW():
 
     while True:
